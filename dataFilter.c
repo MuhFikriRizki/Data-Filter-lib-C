@@ -1,8 +1,10 @@
 /*
  * dataFilter.c
  *
- *  Created on: Mar 7, 2025
- *      Author: coope
+ *  Created on: Mar 1, 2025
+ *      Author: Muhammad Fikri Rizki
+ *      ELIN 2021
+ *      Politeknik Elektronika Negeri Surabaya
  */
 #include "dataFilter.h"
 
